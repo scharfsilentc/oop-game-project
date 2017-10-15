@@ -1,0 +1,30 @@
+#restart-button {
+    font-size: 19px;
+    color: #ffffff;
+    background-color: #bc80ea; 
+    text-shadow: 1px 0 #9752cc;
+    padding: 6px 14px;
+    border-radius: 14px;
+    border: 2px solid #c584f3;
+    box-shadow: 2px 0;
+}
+
+#container
+{
+  height: 500px;
+  position: relative;
+  width: 375px;
+}
+#app
+{
+  height: 100%;
+  width: 100%;
+}
+#controls
+{
+  display: none;  
+  top: 220px;
+  left: 126px;
+  position: absolute;
+  width: 100%;
+}
